@@ -11,10 +11,12 @@ Enter name, date, amount and submit.
 
 # How to run 
 1. Intsall Node.js on loacal machine.
-2. Install npm 
+2. Install npm
+
   npm install -y
 
 3. Import src file from the repository
 4. run the server
+
   npm start
 
